@@ -1,0 +1,10 @@
+.idea
+.DS_Store
+venv
+__pycache__
+another_methods
+*.env
+proxies.txt
+manual.txt
+logs
+server.txt
