@@ -12,7 +12,7 @@ services:
       - db_data:/var/lib/mysql
 
   scraper:
-    container_name: navigate_scraper
+    container_name: daycoaftermarket_scraper
     build:
       context: .
     volumes:
